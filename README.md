@@ -1,1 +1,1 @@
-# Nidszxh-Neuro-symbolic-Visual-Reasoning-System
+# Neuro-symbolic-Visual-Reasoning-System
